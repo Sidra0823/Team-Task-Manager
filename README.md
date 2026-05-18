@@ -6,7 +6,7 @@ A full-stack web application for managing projects, assigning tasks, and trackin
 
 ## 🚀 Live Demo
 
-> Deployed on Railway — see submission for live URL.
+> Deployed on Railway — https://team-task-manager-production-01.up.railway.app/
 
 **Demo credentials:**
 
